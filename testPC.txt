@@ -1,0 +1,600 @@
+dataset/images/test/banba_banba_RC2024-7v7_RC2024__Nao-Devils_half1_p7__001_00_Images_YELLOW_GREEN/upper_369251.png 62,204,155,444,0 346,213,430,475,0 429,219,489,421,0 617,236,639,403,0
+dataset/images/test/banba_banba_RC2024-7v7_RC2024__Nao-Devils_half1_p7__001_00_Images_YELLOW_GREEN/upper_367585.png 34,195,154,479,0 326,214,418,472,0 486,223,561,449,0 594,232,640,405,0
+dataset/images/test/banba_banba_RC2024-7v7_RC2024__Nao-Devils_half1_p7__001_00_Images_YELLOW_GREEN/upper_366585.png 106,195,207,476,0 373,200,496,479,0 190,215,238,323,0
+dataset/images/test/banba_banba_RC2024-7v7_RC2024__Nao-Devils_half1_p7__001_00_Images_YELLOW_GREEN/upper_365919.png 40,182,185,479,0 341,212,430,473,0 598,224,640,472,0
+dataset/images/test/banba_banba_RC2024-7v7_RC2024__Nao-Devils_half1_p7__001_00_Images_YELLOW_GREEN/upper_363254.png 322,109,570,479,0 1,150,51,455,0 37,175,80,290,0
+dataset/images/test/banba_banba_RC2024-7v7_RC2024__Nao-Devils_half1_p7__001_00_Images_YELLOW_GREEN/upper_359922.png 378,127,640,480,0
+dataset/images/test/banba_banba_RC2024-7v7_RC2024__Nao-Devils_half1_p7__001_00_Images_YELLOW_GREEN/upper_357924.png 313,153,357,236,0 347,127,639,476,0
+dataset/images/test/banba_banba_RC2024-7v7_RC2024__Nao-Devils_half1_p7__001_00_Images_YELLOW_GREEN/upper_357257.png 346,134,638,479,0
+dataset/images/test/banba_banba_RC2024-7v7_RC2024__Nao-Devils_half1_p7__001_00_Images_YELLOW_GREEN/upper_356591.png 495,0,639,480,0
+dataset/images/test/banba_banba_RC2024-7v7_RC2024__Nao-Devils_half1_p7__001_00_Images_YELLOW_GREEN/upper_355925.png 434,2,479,99,0 474,0,520,235,0 427,107,639,480,0
+dataset/images/test/banba_banba_RC2024-7v7_RC2024__Nao-Devils_half1_p7__001_00_Images_YELLOW_GREEN/upper_355258.png 599,54,639,186,0 258,44,284,133,0 514,40,564,173,0 288,19,378,295,0 258,162,637,477,0
+dataset/images/test/banba_banba_RC2024-7v7_RC2024__Nao-Devils_half1_p7__001_00_Images_YELLOW_GREEN/upper_354592.png 287,11,375,314,0 466,32,542,227,0 602,49,639,183,0 259,35,288,133,0
+dataset/images/test/banba_banba_RC2024-7v7_RC2024__Nao-Devils_half1_p7__001_00_Images_YELLOW_GREEN/upper_353259.png 470,0,589,222,0
+dataset/images/test/banba_banba_RC2024-7v7_RC2024__Nao-Devils_half1_p7__001_00_Images_YELLOW_GREEN/upper_352593.png 332,66,430,314,0 0,62,131,394,0 141,76,226,265,0
+dataset/images/test/banba_banba_RC2024-7v7_RC2024__Nao-Devils_half1_p7__001_00_Images_YELLOW_GREEN/upper_349928.png 515,172,618,437,0 180,150,277,480,0 267,160,309,405,0 312,176,344,288,0
+dataset/images/test/banba_banba_RC2024-7v7_RC2024__Nao-Devils_half1_p7__001_00_Images_YELLOW_GREEN/upper_349262.png 0,96,64,402,0 413,83,516,436,0 510,92,600,365,0 594,107,640,238,0
+dataset/images/test/banba_banba_RC2024-7v7_RC2024__Nao-Devils_half1_p7__001_00_Images_YELLOW_GREEN/upper_348595.png 309,7,393,288,0
+dataset/images/test/banba_banba_RC2024-7v7_RC2024__Nao-Devils_half1_p7__001_00_Images_YELLOW_GREEN/upper_347596.png 83,203,169,479,0 196,216,294,467,0 305,230,342,341,0 527,275,610,473,0
+dataset/images/test/banba_banba_RC2024-7v7_RC2024__Nao-Devils_half1_p7__001_00_Images_YELLOW_GREEN/upper_346596.png 95,213,170,401,0 336,224,367,335,0 256,213,317,444,0 554,275,639,479,0 194,202,274,478,0
+dataset/images/test/banba_banba_RC2024-7v7_RC2024__Nao-Devils_half1_p7__001_00_Images_YELLOW_GREEN/upper_345264.png 62,209,142,403,0 202,210,280,463,0 273,205,368,477,0 526,232,595,362,0 472,309,640,475,1
+dataset/images/test/banba_banba_RC2024-7v7_RC2024__Nao-Devils_half1_p7__001_00_Images_YELLOW_GREEN/upper_344264.png 470,413,639,479,0 272,212,369,478,0 192,209,273,464,0 93,212,167,410,0 520,233,571,369,0
+dataset/images/test/banba_banba_RC2024-7v7_RC2024__Nao-Devils_half1_p7__001_00_Images_YELLOW_GREEN/upper_343931.png 108,212,186,396,0 198,210,280,459,0 279,210,359,477,0 510,231,577,364,0 488,410,640,480,1
+dataset/images/test/banba_banba_RC2024-7v7_RC2024__Nao-Devils_half1_p7__001_00_Images_YELLOW_GREEN/upper_343265.png 501,216,612,479,0 401,219,471,466,0 354,218,419,392,0
+dataset/images/test/banba_banba_RC2024-7v7_RC2024__Nao-Devils_half1_p7__001_00_Images_YELLOW_GREEN/upper_341932.png 217,201,282,394,0 311,201,393,464,0 418,217,452,324,0 443,205,515,441,0
+dataset/images/test/banba_banba_RC2024-7v7_RC2024__Nao-Devils_half1_p7__001_00_Images_YELLOW_GREEN/upper_341266.png 176,138,257,405,0 545,148,613,350,0
+dataset/images/test/banba_banba_RC2024-7v7_RC2024__Nao-Devils_half1_p7__001_00_Images_YELLOW_GREEN/upper_340600.png 124,37,638,480,0 500,192,594,361,0
+dataset/images/test/banba_banba_RC2024-7v7_RC2024__Nao-Devils_half1_p7__001_00_Images_YELLOW_GREEN/upper_339933.png 1,3,431,478,0 422,170,479,321,0 584,193,639,324,0 601,253,639,479,0
+dataset/images/test/banba_banba_RC2024-7v7_RC2024__Nao-Devils_half1_p7__001_00_Images_YELLOW_GREEN/upper_339267.png 306,13,640,479,0 286,71,366,236,0 0,49,59,346,0
+dataset/images/test/banba_banba_RC2024-7v7_RC2024__Nao-Devils_half1_p7__001_00_Images_YELLOW_GREEN/upper_337601.png 0,159,100,453,0 279,137,389,286,0 392,164,446,270,0 433,8,639,479,0
+dataset/images/test/banba_banba_RC2024-7v7_RC2024__Nao-Devils_half1_p7__001_00_Images_YELLOW_GREEN/upper_337268.png 148,162,238,406,0 252,194,319,318,0 323,12,639,480,0
+dataset/images/test/banba_banba_RC2024-7v7_RC2024__Nao-Devils_half1_p7__001_00_Images_YELLOW_GREEN/upper_334603.png 94,9,184,296,0 361,0,640,480,0 377,2,427,141,0
+dataset/images/test/banba_banba_RC2024-7v7_RC2024__Nao-Devils_half1_p7__001_00_Images_YELLOW_GREEN/upper_334270.png 276,0,637,480,0 220,33,282,163,0
+dataset/images/test/banba_banba_RC2024-7v7_RC2024__Nao-Devils_half1_p7__001_00_Images_YELLOW_GREEN/upper_333937.png 0,59,211,479,0 446,160,514,311,0 315,159,386,386,0
+dataset/images/test/banba_banba_RC2024-7v7_RC2024__Nao-Devils_half1_p7__001_00_Images_YELLOW_GREEN/upper_333270.png 170,138,466,472,0
+dataset/images/test/banba_banba_RC2024-7v7_RC2024__Nao-Devils_half1_p7__001_00_Images_YELLOW_GREEN/upper_332604.png 71,147,341,480,0 465,214,546,426,0 388,207,444,335,0
+dataset/images/test/banba_banba_RC2024-7v7_RC2024__Nao-Devils_half1_p7__001_00_Images_YELLOW_GREEN/upper_331938.png 359,212,407,426,0 424,212,499,416,0 2,129,280,478,0
+dataset/images/test/banba_banba_RC2024-7v7_RC2024__Nao-Devils_half1_p7__001_00_Images_YELLOW_GREEN/upper_331271.png 0,131,312,478,0 331,206,408,421,0 494,211,585,410,0
+dataset/images/test/banba_banba_RC2024-7v7_RC2024__Nao-Devils_half1_p7__001_00_Images_YELLOW_GREEN/upper_330605.png 0,128,266,477,0 285,209,353,416,0 504,212,616,429,0
+dataset/images/test/banba_banba_RC2024-7v7_RC2024__Nao-Devils_half1_p7__001_00_Images_YELLOW_GREEN/upper_329939.png 515,215,613,427,0 88,159,320,479,0
+dataset/images/test/banba_banba_RC2024-7v7_RC2024__Nao-Devils_half1_p7__001_00_Images_YELLOW_GREEN/upper_329272.png 0,148,102,480,0 183,199,258,469,0 464,208,550,417,0 255,206,294,392,0
+dataset/images/test/banba_banba_RC2024-7v7_RC2024__Nao-Devils_half1_p7__001_00_Images_YELLOW_GREEN/upper_328606.png 0,189,51,474,0 268,209,357,407,0 450,214,529,407,0 546,210,640,476,0 38,198,77,393,0
+dataset/images/test/banba_banba_RC2024-7v7_RC2024__Nao-Devils_half1_p7__001_00_Images_YELLOW_GREEN/upper_327607.png 171,197,241,470,0 505,217,587,431,0 131,195,183,399,0
+dataset/images/test/banba_banba_RC2024-7v7_RC2024__Nao-Devils_half1_p7__001_00_Images_YELLOW_GREEN/upper_327274.png 214,207,292,405,0 305,212,368,393,0 425,209,498,475,0
+dataset/images/test/banba_banba_RC2024-7v7_RC2024__Nao-Devils_half1_p7__001_00_Images_YELLOW_GREEN/upper_325941.png 89,202,172,407,0 199,204,266,383,0 336,207,411,470,0 600,223,639,434,0
+dataset/images/test/banba_banba_RC2024-7v7_RC2024__Nao-Devils_half1_p7__001_00_Images_YELLOW_GREEN/upper_325275.png 196,197,255,472,0 464,207,528,413,0 584,207,639,407,0
+dataset/images/test/banba_banba_RC2024-7v7_RC2024__Nao-Devils_half1_p7__001_00_Images_YELLOW_GREEN/upper_324608.png 35,194,112,418,0 189,205,253,373,0 358,210,441,468,0 586,223,639,422,0
+dataset/images/test/banba_banba_RC2024-7v7_RC2024__Nao-Devils_half1_p7__001_00_Images_YELLOW_GREEN/upper_323942.png 204,193,275,468,0 407,205,493,420,0 272,210,297,383,0 573,206,639,398,0
+dataset/images/test/banba_banba_RC2024-7v7_RC2024__Nao-Devils_half1_p7__001_00_Images_YELLOW_GREEN/upper_322609.png 78,34,246,476,0
+dataset/images/test/banba_banba_RC2024-7v7_RC2024__Nao-Devils_half1_p7__001_00_Images_YELLOW_GREEN/upper_321277.png 132,170,224,422,0 271,180,342,384,0 495,198,556,397,0 218,179,260,360,0
+dataset/images/test/banba_banba_RC2024-7v7_RC2024__Nao-Devils_half1_p7__001_00_Images_YELLOW_GREEN/upper_320944.png 100,205,181,418,0 0,193,27,465,0 312,214,367,404,0 523,222,610,479,0 606,236,639,394,0 25,196,73,383,0
+dataset/images/test/banba_banba_RC2024-7v7_RC2024__Nao-Devils_half1_p7__001_00_Images_YELLOW_GREEN/upper_317945.png 372,206,450,460,0 493,213,588,448,0
+dataset/images/test/banba_banba_RC2024-7v7_RC2024__Nao-Devils_half1_p7__001_00_Images_YELLOW_GREEN/upper_316613.png 359,207,448,453,0 481,210,582,462,0
+dataset/images/test/banba_banba_RC2024-7v7_RC2024__Nao-Devils_half1_p7__001_00_Images_YELLOW_GREEN/upper_313947.png 268,204,358,462,0
+dataset/images/test/banba_banba_RC2024-7v7_RC2024__Nao-Devils_half1_p7__001_00_Images_YELLOW_GREEN/upper_313281.png 44,76,415,478,0
+dataset/images/test/banba_banba_RC2024-7v7_RC2024__Nao-Devils_half1_p7__001_00_Images_YELLOW_GREEN/upper_311282.png 229,205,313,467,0 185,211,243,393,0
+dataset/images/test/banba_banba_RC2024-7v7_RC2024__Nao-Devils_half1_p7__001_00_Images_YELLOW_GREEN/upper_310616.png 436,207,537,479,0 388,211,457,395,0 529,213,590,390,0
+dataset/images/test/banba_banba_RC2024-7v7_RC2024__Nao-Devils_half1_p7__001_00_Images_YELLOW_GREEN/upper_308617.png 62,196,171,478,0 197,202,279,392,0 153,201,218,414,0 551,223,630,426,0
+dataset/images/test/banba_banba_RC2024-7v7_RC2024__Nao-Devils_half1_p7__001_00_Images_YELLOW_GREEN/upper_307284.png 0,181,53,480,0 85,205,168,440,0 163,207,197,398,0 491,220,564,432,0 560,220,636,475,0
+dataset/images/test/banba_banba_RC2024-7v7_RC2024__Nao-Devils_half1_p7__001_00_Images_YELLOW_GREEN/upper_306618.png 365,205,469,476,0 524,213,615,455,0
+dataset/images/test/banba_banba_RC2024-7v7_RC2024__Nao-Devils_half1_p7__001_00_Images_YELLOW_GREEN/upper_305952.png 0,184,80,480,0 191,204,276,418,0 525,220,592,437,0 591,220,639,476,0
+dataset/images/test/banba_banba_RC2024-7v7_RC2024__Nao-Devils_half1_p7__001_00_Images_YELLOW_GREEN/upper_303953.png
+dataset/images/test/banba_banba_RC2024-7v7_RC2024__Nao-Devils_half1_p7__001_00_Images_YELLOW_GREEN/upper_299955.png 125,210,190,416,0 331,212,403,464,0 401,182,577,480,0 82,205,139,368,0
+dataset/images/test/banba_banba_RC2024-7v7_RC2024__Nao-Devils_half1_p7__001_00_Images_YELLOW_GREEN/upper_297956.png 150,215,204,400,0 338,181,465,478,0
+dataset/images/test/banba_banba_RC2024-7v7_RC2024__Nao-Devils_half1_p7__001_00_Images_YELLOW_GREEN/upper_297623.png 328,214,377,395,0 371,214,414,358,0 511,181,639,479,0 0,182,22,469,0
+dataset/images/test/banba_banba_RC2024-7v7_RC2024__Nao-Devils_half1_p7__001_00_Images_YELLOW_GREEN/upper_296624.png 434,197,601,477,0 313,212,367,382,0
+dataset/images/test/banba_banba_RC2024-7v7_RC2024__Nao-Devils_half1_p7__001_00_Images_YELLOW_GREEN/upper_295957.png 407,172,585,479,0 0,194,78,462,0 589,209,634,398,0
+dataset/images/test/banba_banba_RC2024-7v7_RC2024__Nao-Devils_half1_p7__001_00_Images_YELLOW_GREEN/upper_295291.png 115,166,274,478,0 381,211,471,479,0 278,210,316,399,0
+dataset/images/test/banba_banba_RC2024-7v7_RC2024__Nao-Devils_half1_p7__001_00_Images_YELLOW_GREEN/upper_294625.png 135,161,326,479,0 4,194,88,463,0 404,220,484,391,0 545,210,639,478,0 366,213,407,349,0
+dataset/images/test/banba_banba_RC2024-7v7_RC2024__Nao-Devils_half1_p7__001_00_Images_YELLOW_GREEN/upper_294291.png 93,163,288,475,0 8,195,83,471,0 366,207,421,373,0 424,216,512,391,0 551,208,639,477,0
+dataset/images/test/banba_banba_RC2024-7v7_RC2024__Nao-Devils_half1_p7__001_00_Images_YELLOW_GREEN/upper_293958.png 146,164,335,474,0 102,188,168,453,0 452,217,496,387,0 523,213,595,401,0
+dataset/images/test/banba_banba_RC2024-7v7_RC2024__Nao-Devils_half1_p7__001_00_Images_YELLOW_GREEN/upper_293292.png 0,137,169,479,0 437,212,488,381,0 526,214,582,403,0
+dataset/images/test/banba_banba_RC2024-7v7_RC2024__Nao-Devils_half1_p7__001_00_Images_YELLOW_GREEN/upper_292626.png 346,204,435,465,0 218,209,291,370,0 125,203,199,376,0
+dataset/images/test/banba_banba_RC2024-7v7_RC2024__Nao-Devils_half1_p7__001_00_Images_YELLOW_GREEN/upper_290960.png 279,81,351,326,0 547,76,623,262,0
+dataset/images/test/banba_banba_RC2024-7v7_RC2024__Nao-Devils_half1_p7__001_00_Images_YELLOW_GREEN/upper_290627.png 450,78,528,328,0
+dataset/images/test/banba_banba_RC2024-7v7_RC2024__Nao-Devils_half1_p7__001_00_Images_YELLOW_GREEN/upper_289960.png 86,14,173,285,0 540,48,607,194,0 470,169,639,288,1 371,35,437,215,0
+dataset/images/test/banba_banba_RC2024-7v7_RC2024__Nao-Devils_half1_p7__001_00_Images_YELLOW_GREEN/upper_288628.png 256,40,324,173,0
+dataset/images/test/banba_banba_RC2024-7v7_RC2024__Nao-Devils_half1_p7__001_00_Images_YELLOW_GREEN/upper_286629.png 351,0,433,191,0 587,1,639,194,0
+dataset/images/test/banba_banba_RC2024-7v7_RC2024__Nao-Devils_half1_p7__001_00_Images_YELLOW_GREEN/upper_285296.png 0,1,94,329,0 240,0,319,300,0 307,0,367,253,0 349,3,394,194,0 595,8,639,156,0
+dataset/images/test/banba_banba_RC2024-7v7_RC2024__Nao-Devils_half1_p7__001_00_Images_YELLOW_GREEN/upper_283964.png
+dataset/images/test/banba_banba_RC2024-7v7_RC2024__Nao-Devils_half1_p7__001_00_Images_YELLOW_GREEN/upper_281299.png 212,174,558,480,1 431,37,513,249,0 584,50,640,193,0
+dataset/images/test/banba_banba_RC2024-7v7_RC2024__Nao-Devils_half1_p7__001_00_Images_YELLOW_GREEN/upper_280965.png 6,97,357,458,1 471,0,572,275,0 421,3,469,140,0 278,0,342,135,0
+dataset/images/test/banba_banba_RC2024-7v7_RC2024__Nao-Devils_half1_p7__001_00_Images_YELLOW_GREEN/upper_279966.png 304,296,491,456,0 0,84,104,480,0 495,104,560,264,0 588,103,640,347,0
+dataset/images/test/banba_banba_RC2024-7v7_RC2024__Nao-Devils_half1_p7__001_00_Images_YELLOW_GREEN/upper_279300.png
+dataset/images/test/banba_banba_RC2024-7v7_RC2024__Nao-Devils_half1_p7__001_00_Images_YELLOW_GREEN/upper_278633.png 79,27,166,257,0 265,22,377,362,0 518,218,640,343,1
+dataset/images/test/banba_banba_RC2024-7v7_RC2024__Nao-Devils_half1_p7__001_00_Images_YELLOW_GREEN/upper_277967.png 253,0,328,200,0 217,0,259,143,0 0,6,55,316,0
+dataset/images/test/banba_banba_RC2024-7v7_RC2024__Nao-Devils_half1_p7__001_00_Images_YELLOW_GREEN/upper_277634.png 223,0,327,288,0 379,0,462,294,0 2,3,53,221,0
+dataset/images/test/banba_banba_RC2024-7v7_RC2024__Nao-Devils_half1_p7__001_00_Images_YELLOW_GREEN/upper_275968.png 223,0,288,171,0
+dataset/images/test/banba_banba_RC2024-7v7_RC2024__Nao-Devils_half1_p7__001_00_Images_YELLOW_GREEN/upper_274302.png 467,0,552,209,0
+dataset/images/test/banba_banba_RC2024-7v7_RC2024__Nao-Devils_half1_p7__001_00_Images_YELLOW_GREEN/upper_273303.png 410,50,506,312,0 16,86,88,264,0 568,32,640,367,0
+dataset/images/test/banba_banba_RC2024-7v7_RC2024__Nao-Devils_half1_p7__001_00_Images_YELLOW_GREEN/upper_271304.png 346,109,419,307,0 568,131,639,344,0
+dataset/images/test/banba_banba_RC2024-7v7_RC2024__Nao-Devils_half1_p7__001_00_Images_YELLOW_GREEN/upper_269971.png
+dataset/images/test/banba_banba_RC2024-7v7_RC2024__Nao-Devils_half1_p7__001_00_Images_YELLOW_GREEN/upper_267972.png 1,3,288,477,0
+dataset/images/test/banba_banba_RC2024-7v7_RC2024__Nao-Devils_half1_p7__001_00_Images_YELLOW_GREEN/upper_267639.png 373,42,422,168,0 501,58,546,143,0
+dataset/images/test/banba_banba_RC2024-7v7_RC2024__Nao-Devils_half1_p7__001_00_Images_YELLOW_GREEN/upper_265307.png 85,0,148,164,0 155,0,204,138,0 339,2,380,58,0 531,0,600,131,0 491,0,532,73,0 608,0,639,127,0
+dataset/images/test/banba_banba_RC2024-7v7_RC2024__Nao-Devils_half1_p7__001_00_Images_YELLOW_GREEN/upper_263975.png 426,111,491,306,0 501,109,549,277,0
+dataset/images/test/banba_banba_RC2024-7v7_RC2024__Nao-Devils_half1_p7__001_00_Images_YELLOW_GREEN/upper_260976.png 545,37,632,235,0
+dataset/images/test/banba_banba_RC2024-7v7_RC2024__Nao-Devils_half1_p7__001_00_Images_YELLOW_GREEN/upper_258644.png 328,0,469,472,0 175,34,235,240,0
+dataset/images/test/banba_banba_RC2024-7v7_RC2024__Nao-Devils_half1_p7__001_00_Images_YELLOW_GREEN/upper_257645.png 233,1,419,478,0 91,7,149,238,0
+dataset/images/test/banba_banba_RC2024-7v7_RC2024__Nao-Devils_half1_p7__001_00_Images_YELLOW_GREEN/upper_256645.png 1,4,168,470,0
+dataset/images/test/banba_banba_RC2024-7v7_RC2024__Nao-Devils_half1_p7__001_00_Images_YELLOW_GREEN/upper_253314.png 335,0,639,478,0
+dataset/images/test/banba_banba_RC2024-7v7_RC2024__Nao-Devils_half1_p7__001_00_Images_YELLOW_GREEN/upper_245984.png 47,228,147,479,0 613,223,640,384,0 155,244,204,341,0 21,250,50,316,0
+dataset/images/test/banba_banba_RC2024-7v7_RC2024__Nao-Devils_half1_p7__001_00_Images_YELLOW_GREEN/upper_244319.png 21,248,55,330,0 61,246,88,334,0 123,224,218,480,0 204,243,237,345,0 613,225,639,385,0
+dataset/images/test/banba_banba_RC2024-7v7_RC2024__Nao-Devils_half1_p7__001_00_Images_YELLOW_GREEN/upper_239988.png 11,248,48,337,0 164,219,262,480,0 548,227,613,375,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_545433.png 186,0,237,97,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_544700.png 216,128,260,265,0 0,165,23,356,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_543368.png 114,194,202,404,0 513,168,638,479,0 402,194,447,304,0 452,200,482,267,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_542701.png 76,193,167,404,0 438,164,618,479,0 405,194,446,301,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_540702.png 156,0,265,171,0 523,0,600,130,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_537737.png 114,125,194,307,0 255,108,349,321,0 327,101,417,303,0 0,321,84,480,1
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_537071.png 0,0,513,479,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_535738.png 113,0,329,479,0 0,0,122,480,0 438,0,488,153,0 603,0,640,221,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_532707.png 420,0,637,480,0 169,0,382,477,0 80,0,205,408,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_532040.png 431,0,640,480,0 324,0,377,112,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_529375.png 400,31,639,479,0 340,70,400,231,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_527376.png 201,255,279,445,0 331,328,383,387,1 275,327,320,392,1
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_520214.png 402,53,560,372,0 191,101,295,302,0 329,92,392,231,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_519547.png 238,30,317,181,0 136,47,196,164,0 0,145,27,381,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_518881.png 274,2,640,480,0 166,0,219,60,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_516216.png 0,0,475,479,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_516882.png 239,62,284,165,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_513551.png 321,23,369,145,0 290,29,314,103,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_508220.png 43,180,149,465,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_507554.png 481,152,593,430,0 276,172,330,371,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_501857.png 239,0,390,369,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_501191.png 0,0,65,89,1
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_495494.png 484,21,549,184,0 551,25,595,148,0 625,27,640,122,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_494161.png 162,297,196,396,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_488664.png 0,244,36,385,0 384,159,437,287,0 482,146,540,251,0 608,119,640,225,0 578,126,606,223,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_481835.png
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_475138.png 77,194,194,473,0 246,190,308,337,0 414,174,474,312,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_473806.png 289,0,352,133,0 96,11,176,160,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_467809.png
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_465144.png 7,368,543,480,1 315,140,640,475,1
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_463811.png 18,85,322,480,1
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_462479.png 25,76,331,480,1 239,0,470,479,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_461146.png 239,0,448,467,0 0,2,117,479,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_460480.png 61,41,354,480,0 6,189,54,324,0 550,148,589,227,0 591,110,640,471,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_459147.png 54,173,235,479,0 509,176,640,479,0 429,215,468,284,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_458481.png 280,250,302,329,0 351,233,460,480,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_456482.png 337,9,499,479,0 300,65,339,163,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_452917.png 235,209,273,308,0 84,191,212,480,0 344,274,552,478,1 564,179,640,367,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_451584.png 131,182,261,477,0 545,184,616,343,0 231,346,477,472,1
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_449885.png 137,111,272,480,0 334,137,383,257,0 398,136,422,203,1 69,277,181,401,1
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_448553.png 0,157,31,416,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_447220.png 21,0,188,292,0 242,0,446,304,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_446554.png
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_445888.png 198,0,342,288,0 0,0,154,393,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_443889.png 101,0,309,479,0 14,39,67,183,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_441890.png 495,44,544,176,0 487,7,639,480,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_441224.png 40,90,110,209,0 122,75,200,232,0 195,61,257,230,0 260,0,639,479,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_440557.png 105,94,392,480,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_439225.png 464,135,595,479,0 381,167,428,303,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_437892.png 73,56,132,179,0 492,0,613,254,0 0,136,50,392,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_437226.png 37,0,170,149,0 302,0,640,480,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_434860.png 28,29,244,480,0 198,28,303,310,0 569,13,607,110,0 606,0,640,273,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_433528.png 0,38,108,388,0 91,65,181,250,0 490,18,640,473,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_432861.png 136,183,179,287,0 217,162,370,480,0 506,176,623,480,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_431529.png 23,219,145,480,0 413,231,513,480,0 517,223,625,480,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_429530.png 112,251,153,357,0 49,316,158,480,0 457,219,547,480,0 519,228,601,450,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_427531.png 21,249,67,365,0 363,233,447,471,0 433,227,507,459,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_426198.png 85,284,128,383,0 368,242,455,479,0 480,252,580,452,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_423900.png 160,1,368,480,0 395,22,534,424,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_423233.png 604,109,640,210,0 182,71,322,471,0 3,38,127,480,0 138,94,179,197,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_421901.png 31,0,209,454,0 524,23,593,195,0 409,32,446,127,0 388,30,413,96,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_421234.png 139,0,400,480,0 588,0,632,68,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_419569.png 63,135,215,479,0 531,143,640,439,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_418902.png 143,33,269,400,0 291,30,418,365,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_416904.png 0,90,53,303,0 67,60,215,454,0 361,65,417,219,0 524,32,607,264,0 587,37,639,380,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_415571.png 199,90,261,223,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_414571.png 0,0,399,480,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_413239.png 0,0,347,479,0 379,3,640,480,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_411906.png 210,4,640,480,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_403911.png 94,59,327,480,0 489,123,561,297,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_403244.png 449,199,485,291,0 493,161,637,480,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_401245.png 109,244,189,480,0 202,254,295,480,0 511,252,588,432,0 415,357,600,479,1
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_400579.png 0,192,67,442,0 78,192,162,420,0 218,184,281,431,0 383,194,441,365,0 616,196,640,407,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_397914.png 123,202,198,424,0 201,196,282,395,0 465,182,564,449,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_397248.png 42,196,139,413,0 257,187,394,450,0 496,190,568,370,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_396581.png 80,220,189,453,0 335,203,399,410,0 398,199,484,406,0 587,219,639,447,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_394982.png 185,195,271,448,0 278,203,366,399,0 490,177,619,480,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_391651.png 207,86,298,298,0 500,60,621,472,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_388319.png 406,0,499,306,0 513,0,591,194,0 604,86,640,325,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_386320.png 100,99,228,432,0 268,93,406,417,0 189,105,259,285,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_383988.png 199,101,304,456,0 475,57,583,412,0 408,91,462,272,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_383322.png 83,145,147,292,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_381989.png 304,197,511,464,1 181,0,240,151,0 241,0,277,92,0 353,0,404,167,0 593,14,639,239,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_381323.png 451,45,549,299,0 360,50,442,246,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_379990.png
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_379324.png 0,0,124,164,0 548,6,640,480,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_378658.png 0,60,70,263,0 88,47,161,239,0 437,23,475,116,0 567,9,603,93,0 605,8,625,108,0 542,78,640,480,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_377992.png 0,79,61,286,0 96,73,168,249,0 402,91,429,181,0 456,4,638,480,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_376659.png 129,0,205,104,0 305,0,500,469,0 489,0,639,194,1
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_375993.png 304,147,392,323,0 510,147,566,305,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_375060.png 601,158,640,360,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_374393.png 359,188,436,358,0 619,192,640,341,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_373727.png 148,226,223,399,0 412,236,454,364,0 586,242,619,324,0 610,229,639,479,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_373061.png 146,55,240,237,0 430,31,485,167,0 614,10,639,110,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_372395.png 66,46,124,173,0 129,41,177,137,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_371062.png 115,88,175,246,0 374,69,452,456,0 295,87,394,358,0 571,102,612,210,0 616,103,639,202,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_369929.png 219,0,322,249,0 52,0,122,131,0 314,3,484,451,0 507,0,576,83,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_368597.png 189,48,220,144,0 225,51,259,155,0 269,45,304,169,0 1,84,170,480,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_367930.png 193,77,287,314,0 344,90,393,221,0 442,46,632,480,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_367264.png 275,54,326,179,0 219,55,253,160,0 0,28,89,315,0 191,55,224,151,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_365931.png
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_363266.png 354,110,516,335,1 600,64,638,177,0 489,68,528,207,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_362600.png 0,0,209,479,0 302,0,414,271,0 265,0,312,157,0 418,0,476,127,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_361267.png 458,328,640,480,1
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_359468.png 0,0,639,479,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_358136.png 194,135,291,342,0 140,151,190,261,0 398,104,442,204,0 521,88,549,173,0 560,77,601,191,0 607,70,640,261,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_356137.png 0,0,70,178,0 91,0,159,60,0 490,0,640,479,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_354804.png 153,0,638,479,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_354138.png
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_353472.png 191,1,639,479,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_352805.png 412,0,639,480,0 247,0,300,46,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_352139.png 0,0,290,479,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_351473.png 0,0,130,479,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_350806.png 1,154,120,480,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_349740.png
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_349074.png 5,194,112,479,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_348408.png 317,239,353,351,0 279,237,305,301,0 211,230,239,310,0 61,220,115,455,0 0,214,34,466,0 457,225,565,480,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_347741.png 64,209,116,445,0 117,212,193,433,0 399,215,445,328,0 284,218,324,296,0 360,219,389,286,0 586,196,639,480,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_347075.png 431,207,499,454,0 505,210,571,427,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_346409.png 0,226,41,475,0 121,211,185,388,0 178,216,214,308,0 317,208,349,287,0 387,201,418,269,0 423,195,467,311,0 575,161,640,480,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_344776.png 34,224,89,366,0 339,208,408,444,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_344110.png 38,201,125,473,0 404,206,456,362,0 550,209,590,291,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_343444.png 37,226,97,367,0 266,204,333,469,0
+dataset/images/test/bailey_bailey_RC2024-7v7_RC2024__B-Human_half2_p6__003_00_RED/upper_342111.png 17,205,109,480,0 536,199,599,363,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_824852.png 291,105,395,384,0 612,131,640,335,0 49,106,81,230,0 0,112,13,209,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_822186.png 0,0,63,222,0 58,0,114,169,0 105,0,156,135,0 227,0,263,80,0 293,0,333,106,0 543,0,640,362,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_824185.png 0,0,103,284,0 309,0,371,177,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_816190.png 115,209,168,354,0 238,190,307,384,0 411,172,506,407,0 546,159,602,283,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_810859.png 155,184,252,480,0 35,238,146,395,1 0,185,35,352,0 415,198,463,332,0 240,195,271,282,0 87,188,126,278,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_804862.png 41,173,125,378,0 164,179,247,413,0 253,181,322,372,0 326,192,361,276,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_803530.png 233,177,291,373,0 111,184,145,289,0 544,183,634,447,0 0,194,15,402,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_802197.png 30,197,100,398,0 389,181,453,395,0 187,184,224,290,0 336,191,364,274,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_798866.png 198,177,249,352,0 302,327,484,427,1 453,187,504,370,0 562,198,602,306,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_796867.png 215,193,264,366,0 455,184,539,406,0 581,188,617,291,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_795534.png 0,175,21,371,0 251,179,319,399,0 349,189,380,283,0 558,191,590,280,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_792202.png 360,159,380,242,0 190,145,292,409,0 157,158,184,261,0 523,140,621,448,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_783540.png 388,0,507,152,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_784873.png 407,38,476,249,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_780209.png 39,0,203,375,0 419,0,480,171,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_778210.png 223,0,281,202,0 0,0,49,159,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_756855.png 413,79,554,479,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_754189.png 251,0,472,480,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_751524.png 196,0,379,475,0 515,0,639,438,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_749525.png 320,0,615,480,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_746860.png 352,0,511,399,0 281,31,321,162,0 142,35,174,96,0 178,37,205,98,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_735533.png
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_726737.png 0,0,500,479,0 521,39,640,480,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_726071.png 250,0,580,479,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_723406.png 0,0,140,329,0 263,10,355,319,0 535,48,594,242,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_721407.png 174,9,272,219,0 431,0,516,242,0 348,15,381,97,0 542,0,577,77,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_718742.png 99,177,159,314,0 277,175,326,350,0 265,185,289,253,0 428,185,456,251,0 601,171,640,319,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_714078.png 0,199,20,445,0 594,184,640,307,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_708747.png 272,173,397,478,0 248,193,274,265,0 487,190,521,270,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_703417.png 306,152,460,480,0 577,171,620,253,0 437,175,458,231,0 411,173,429,236,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_702750.png 0,56,79,477,0 246,101,269,176,0 64,87,105,195,0 102,95,131,165,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_640117.png 0,8,136,447,0 475,4,593,411,0 101,32,169,168,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_637452.png
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_636785.png 0,0,228,479,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_636119.png 530,0,619,208,0 562,49,639,366,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_634120.png 76,0,380,477,0 0,0,82,455,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_633454.png 0,1,255,480,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_630122.png 0,31,121,263,0 268,1,329,296,0 501,0,640,424,0 443,26,509,234,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_628790.png 366,70,539,480,0 0,64,95,471,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_627457.png 331,0,465,468,0 433,94,626,326,1
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_626124.png 0,258,141,479,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_617562.png 0,0,344,479,0 324,0,448,268,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_611566.png 185,0,365,446,0 0,0,156,414,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_606235.png 172,0,328,281,0 397,0,640,464,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_592909.png 0,0,226,476,0 194,0,341,225,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_590910.png 0,45,161,480,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_589577.png 225,56,395,472,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_588245.png 45,36,271,480,0 309,4,637,480,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_587578.png 0,0,293,480,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_584913.png 188,18,545,479,0 96,0,200,349,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_580249.png 232,1,582,480,0 62,251,244,379,1 0,50,58,373,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_578916.png 0,0,480,475,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_578250.png 291,1,498,480,0 43,0,239,387,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_575585.png 0,9,203,480,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_574919.png 387,7,524,344,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_570254.png 0,0,190,358,0 322,0,483,358,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_568255.png 175,0,329,364,0 434,9,495,181,0 512,14,561,145,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_566923.png 104,0,192,276,0 204,0,300,217,0 553,0,639,211,0 87,0,109,67,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_566256.png 0,26,125,361,0 72,38,171,275,0 401,44,470,242,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_565590.png 249,13,392,374,0 577,71,639,275,0 107,35,134,113,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_563591.png 236,0,373,421,0 0,0,131,292,0 329,0,392,164,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_562259.png 40,0,276,476,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_561592.png 346,56,374,135,0 586,74,625,159,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_560926.png 213,0,344,406,0 401,0,457,158,0 98,0,139,52,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_558261.png 241,0,364,326,0 82,0,128,76,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_550265.png 317,176,397,389,0 391,174,457,368,0 29,187,73,285,0 290,186,326,292,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_549599.png 157,139,244,366,0 238,139,287,337,0 125,144,168,264,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_550931.png 431,184,471,281,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_548266.png 111,86,147,197,0 349,87,444,323,0 300,92,347,217,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_542269.png 334,137,639,479,0 178,19,248,262,0 108,31,180,209,0 251,46,282,187,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_540270.png 285,0,640,477,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_531608.png 0,0,235,479,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_526944.png 194,0,427,479,0 0,205,130,480,1
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_520947.png 253,0,325,220,0 498,0,562,185,0 356,0,410,130,0 190,6,226,96,0 319,93,561,239,1
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_522946.png 110,82,213,436,0 406,87,507,391,0 194,97,267,305,0 276,111,321,217,0 193,208,392,471,1
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_517616.png 0,0,62,243,0 253,0,315,222,0 125,0,164,90,0 333,0,372,155,0 513,1,623,324,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_518282.png 346,32,425,253,0 0,19,96,286,0 89,19,200,290,0 562,29,639,387,0 189,39,231,151,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_514951.png 0,67,37,270,0 253,29,328,215,0 130,49,172,136,0 429,21,486,173,0 503,1,592,263,0 232,49,255,140,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_513618.png 337,0,398,193,0 203,0,250,114,0 67,0,136,106,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_510953.png 224,249,270,377,0 481,250,526,405,0 429,250,473,370,0 284,256,309,318,0 362,255,388,330,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_502690.png 147,0,229,171,0 291,0,353,153,0 458,0,523,201,0 9,0,51,102,0 63,2,98,83,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_500025.png 325,69,399,242,0 470,63,545,219,0 224,86,248,158,0 152,108,203,149,1
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_497360.png 97,174,152,350,0 262,190,292,304,0 333,191,376,322,0 478,195,544,360,0 553,319,640,395,1
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_496027.png 14,182,44,246,0 155,181,224,358,0 324,191,362,297,0 378,192,424,318,0 557,194,620,367,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_487365.png 416,184,486,367,0 339,190,391,329,0 242,194,287,290,0 180,191,216,299,0 0,192,10,252,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_484034.png 72,191,103,257,0 116,194,144,248,0 192,190,244,319,0 349,194,392,289,0 440,199,484,334,0 474,196,521,327,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_478037.png 65,181,150,453,0 383,195,429,334,0 518,202,581,344,0 472,200,523,334,0 261,203,287,268,0 182,200,212,264,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_477371.png 139,191,193,339,0 67,187,118,326,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_476704.png 29,177,121,456,0 126,197,152,259,0 216,201,244,261,0 314,194,362,335,0 422,193,471,331,0 529,188,595,361,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_475372.png 96,33,180,311,0 356,53,422,217,0 473,52,529,217,0 252,61,279,132,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_474705.png 0,0,102,272,0 252,9,321,188,0 137,18,170,96,0 387,12,435,180,0 573,9,640,223,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_472706.png 77,0,194,322,0 331,0,439,305,0 489,0,519,67,0 533,0,567,63,0 610,0,639,73,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_468709.png 44,104,143,429,0 303,135,368,326,0 365,127,474,422,0 486,141,557,334,0 220,143,241,202,0 285,147,305,191,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_467376.png 51,173,158,480,0 271,191,341,381,0 346,190,449,479,0 504,188,584,391,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_466710.png 222,0,286,217,0 526,0,640,350,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_466043.png 101,159,217,477,0 227,174,282,348,0 382,165,490,475,0 280,182,300,233,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_462712.png 460,159,575,480,0 562,188,628,476,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_461379.png 432,179,543,477,0 587,176,640,480,0 546,193,567,252,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_458714.png 6,129,174,480,0 134,145,230,447,0 281,156,329,296,0 263,164,285,231,0 303,338,556,479,1
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_456049.png 0,0,208,450,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_448053.png 214,146,329,461,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_446720.png 328,3,640,480,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_444055.png 63,142,197,475,0 11,151,60,354,0 218,107,443,479,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_442722.png 67,131,153,370,0 17,140,83,296,0 258,100,375,480,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_439391.png 116,95,157,224,0 212,94,260,213,0 399,82,465,285,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_436059.png 106,0,175,192,0 0,0,87,189,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_436726.png 226,9,284,142,0 320,5,389,122,0 91,19,145,115,0 422,109,585,201,1 591,0,640,210,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_433394.png 484,0,558,174,0 357,3,416,159,0 120,0,166,115,0 0,0,20,124,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_430729.png 122,174,184,336,0 218,180,267,320,0 387,181,456,352,0 521,183,600,390,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_429396.png 131,177,177,334,0 241,178,280,315,0 339,178,400,347,0 462,182,577,381,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_428064.png 17,169,84,327,0 152,181,202,318,0 208,178,266,344,0 336,171,407,387,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_426731.png 169,176,230,366,0 67,171,130,368,0 16,170,73,319,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_424732.png 117,166,163,308,0 224,160,284,363,0 341,171,426,361,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_424066.png 129,78,157,142,0 265,68,300,186,0 410,44,465,215,0 581,38,640,193,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_423399.png 98,112,153,229,0 239,96,322,266,0 391,91,456,228,0 476,65,586,305,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_422733.png 219,19,302,286,0 38,5,155,266,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_420734.png 199,0,299,287,0 87,19,155,170,0 342,3,495,311,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_418735.png 232,0,310,184,0 124,12,164,101,0 426,0,485,151,0 506,0,631,237,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_418069.png 133,0,329,479,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_417403.png 122,10,201,223,0 262,25,311,187,0 388,26,471,257,0 560,45,639,247,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_416736.png 435,12,476,96,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_416070.png 93,102,169,315,0 198,107,265,266,0 356,96,407,206,0 515,51,640,475,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_414737.png 547,87,639,300,0 439,99,468,168,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_412739.png 0,176,78,424,0 170,194,221,342,0 315,199,361,328,0 550,210,592,308,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_411406.png 116,185,197,424,0 70,198,102,266,0 234,199,290,334,0 372,201,413,322,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_410740.png 367,207,446,480,0 288,214,316,304,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_410073.png 96,174,207,436,0 340,188,382,306,0 206,177,251,318,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_409407.png 416,190,496,477,0 336,197,370,292,0
+dataset/images/test/bev_bev_RC2024-7v7_RC2024__HTWK-Robots_half2_p4__002_00_BLUE/upper_401411.png 106,189,153,296,0 272,173,378,478,0 448,193,476,267,0 476,196,501,261,0 370,192,407,279,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_760274.png 2,206,39,313,0 81,215,104,293,0 238,204,345,475,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_759274.png 157,214,198,307,0 231,214,259,286,0 451,197,556,475,0 395,205,445,389,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_757275.png 140,205,193,359,0 24,211,49,284,0 395,207,432,292,0 466,205,492,279,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_701605.png 0,135,150,480,0 160,160,347,477,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_699606.png 223,5,428,480,0 3,136,185,480,0 36,25,153,354,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_697607.png 171,0,349,466,0 440,0,635,474,0 0,35,128,480,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_695608.png 259,0,388,438,0 549,2,638,476,0 2,288,82,480,1
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_694609.png 435,30,581,480,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_692610.png 306,229,465,480,0 531,233,640,480,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_686546.png 0,2,192,478,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_684547.png 571,71,640,418,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_682548.png 172,0,252,216,0 394,0,492,378,0 495,0,610,332,0 309,0,415,302,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_680549.png 25,0,133,188,0 436,0,538,253,0 531,0,631,310,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_678550.png 0,74,105,479,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_676551.png 255,1,436,480,0 27,22,71,133,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_673553.png 0,17,41,118,0 214,5,252,131,0 494,0,525,124,0 308,28,348,117,0 263,102,366,151,1
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_670555.png 230,45,299,222,0 553,61,592,173,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_665557.png 147,0,216,175,0 0,0,45,251,0 537,42,582,140,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_661559.png 14,8,134,250,0 175,7,234,163,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_593096.png 407,17,484,272,0 563,23,638,289,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_588099.png 267,2,521,480,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_584101.png 173,194,250,479,0 21,199,157,480,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_583101.png 43,184,134,476,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_582102.png 173,79,294,420,0 505,93,603,369,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_577104.png 495,4,585,231,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_576105.png 269,2,371,225,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_574106.png 171,80,373,480,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_572107.png 433,170,552,479,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_566110.png 0,2,459,482,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_565111.png 1,2,321,480,0 343,0,466,178,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_562112.png 160,110,364,479,0 427,133,549,449,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_563112.png 155,3,479,480,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_561113.png 350,207,515,480,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_560113.png 187,170,297,441,0 464,166,553,445,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_559114.png 220,0,329,254,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_555116.png 477,86,558,282,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_554117.png 43,174,177,429,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_551118.png 168,151,258,327,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_545121.png 126,152,178,264,0 206,174,265,272,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_541124.png 0,155,146,480,0 445,145,493,235,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_539125.png 212,0,360,288,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_537126.png 52,3,636,480,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_538125.png 0,0,337,480,0 428,0,640,476,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_535127.png 338,6,640,480,0 157,42,192,169,0 241,51,284,174,0 0,53,59,479,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_533128.png 142,212,267,480,0 425,183,575,479,0 314,219,344,310,0 595,207,640,417,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_528131.png 298,199,359,424,0 585,189,640,432,0 339,192,389,375,0 397,206,434,287,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_527131.png 192,185,262,446,0 381,181,462,435,0 297,207,331,281,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_531129.png 60,177,188,480,0 2,193,34,283,0 32,176,86,428,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_525132.png 59,182,131,407,0 0,173,70,475,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_524133.png 23,196,67,306,0 110,186,220,449,0 172,195,250,378,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_522134.png 127,209,200,393,0 321,214,358,306,0 399,206,460,423,0 446,203,504,385,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_520135.png 118,199,192,412,0 52,205,98,306,0 157,201,208,364,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_518136.png 0,205,36,308,0 65,198,143,412,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_516137.png 35,215,95,342,0 303,212,342,306,0 393,203,459,399,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_515137.png 236,214,288,301,0 0,209,31,339,0 337,200,412,404,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_470328.png 379,1,640,480,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_469329.png 225,6,269,135,0 403,3,487,218,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_512139.png 173,0,261,117,0 30,0,79,19,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_453337.png
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_452338.png
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_445341.png 0,91,111,479,0 386,149,476,362,0 314,156,383,270,0 225,155,266,224,0 284,151,321,233,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_442343.png 19,178,70,318,0 104,173,181,395,0 474,182,557,441,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_441343.png 119,205,179,396,0 0,209,32,350,0 423,211,507,434,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_437346.png 68,0,164,186,0 243,0,298,109,0 462,0,497,71,0 495,0,537,67,0 545,2,568,47,0 617,0,640,122,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_436346.png 88,199,125,276,0 134,202,167,275,0 233,193,266,311,0 355,196,380,277,0 486,183,572,402,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_440344.png 120,90,199,293,0 322,96,361,219,0 537,92,568,194,0 574,92,609,183,0 610,100,635,164,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_439344.png 99,196,163,322,0 0,200,28,283,0 24,201,57,260,0 245,198,284,287,0 321,197,385,371,0 425,187,540,433,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_432348.png 283,103,329,243,0 320,97,391,319,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_419355.png 250,0,370,275,0 0,231,321,362,1
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_414358.png 384,221,412,271,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_411359.png 161,200,229,429,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_409360.png 445,28,483,129,0 227,73,272,136,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_407362.png 0,62,53,429,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_403364.png 19,92,62,157,0 154,59,200,165,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_398366.png 54,7,124,175,0 382,42,441,189,0 420,13,640,459,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_394368.png 233,0,283,73,0 517,0,640,264,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_393369.png
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_389371.png 0,54,60,479,0 397,50,485,284,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_387372.png 87,35,182,232,0 362,2,525,417,0 597,30,640,240,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_385373.png 189,0,270,187,0 0,0,49,169,0 271,0,297,81,0 564,207,639,446,1
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_384374.png 311,0,427,277,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_382375.png 254,41,331,270,0 416,51,540,339,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_375379.png 243,32,304,193,0 556,26,640,287,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_374379.png 148,200,189,341,0 491,186,581,433,0 448,207,477,280,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_379376.png 189,0,312,200,0 378,0,463,174,0 487,0,584,147,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_369382.png 401,92,471,327,0 565,97,625,256,0 295,97,327,180,0 477,105,507,197,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_372380.png 245,83,333,295,0 414,75,506,349,0 365,93,416,218,0 491,86,553,237,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_366383.png 389,85,492,480,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_364384.png 123,0,240,302,0 0,20,53,208,0 210,14,234,75,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_363385.png 179,0,293,323,0 27,0,116,156,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_360387.png 495,87,640,480,0 425,14,530,406,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_359387.png
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_362385.png 276,0,394,307,0 377,11,461,217,0 515,51,640,445,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_353390.png 186,0,389,475,0 0,0,143,469,0 422,29,474,178,0 495,31,540,149,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_355389.png 87,0,280,347,0 309,0,382,130,0 0,0,69,139,0 440,0,484,82,0 606,0,640,97,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_352391.png 0,0,165,456,0 246,0,302,89,0 303,0,344,70,0 446,0,494,72,0 499,0,538,57,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_347393.png 464,53,590,338,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_346394.png
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_342396.png 184,75,289,424,0 546,114,594,245,0 75,89,162,305,0 0,62,127,477,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_340397.png 431,28,484,168,0 566,181,640,480,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_336399.png 461,1,544,268,0 381,215,640,458,1
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_338398.png 275,86,391,416,0 108,88,167,216,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_330403.png 186,30,249,230,0 357,31,502,305,0 556,56,584,136,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_332401.png 134,40,256,369,0 0,222,393,472,1 499,68,572,253,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_325405.png 0,43,74,321,0 180,48,250,270,0 327,30,447,348,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_327404.png 0,0,141,279,0 258,0,317,221,0 528,0,640,387,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_321407.png 46,0,173,283,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_315410.png 426,200,511,479,0 623,245,640,351,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_314411.png 244,136,311,368,0 89,137,121,214,0 126,141,158,213,0 375,148,425,239,0 608,157,639,249,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_307415.png 121,0,261,286,0 253,0,350,260,0 382,0,520,323,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_305416.png 36,55,115,282,0 323,84,347,169,0 465,88,492,166,0 539,68,640,375,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_304416.png 198,79,369,480,0 361,81,435,333,0 458,90,522,244,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_300418.png 210,56,334,480,0 347,104,372,166,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_291423.png 134,5,452,480,0 90,82,128,147,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_295421.png 0,0,299,478,0 520,10,599,216,0 279,64,325,151,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_290424.png 0,0,79,477,0 191,67,224,131,0 590,93,640,480,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_289424.png 236,155,385,480,0 2,168,57,318,0 596,208,625,278,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_286426.png 148,210,185,334,0 266,189,379,480,0 537,169,639,480,0 376,212,409,281,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_287425.png 101,174,248,480,0 6,202,50,348,0 260,207,291,279,0 425,170,562,480,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_283428.png 154,191,219,428,0 419,191,512,480,0 514,215,543,279,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_274432.png 0,222,34,378,0 298,217,329,306,0 539,211,571,283,0 622,205,640,329,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_277431.png 207,203,260,341,0 354,190,427,441,0 513,213,540,281,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_306715.png 4,0,104,199,0 325,3,369,75,0 457,0,500,61,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_389704.png 2,0,214,479,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_384707.png 0,0,108,443,0 62,24,167,340,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_383041.png 31,207,110,474,0 297,178,363,380,0 459,162,510,241,0 218,259,304,338,1
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_378044.png 139,0,255,278,0 284,0,384,218,0 514,0,575,209,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_358054.png 45,153,281,480,1 419,4,578,480,0 0,10,48,162,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_354723.png 0,0,431,479,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_353057.png 94,5,326,480,0 345,0,534,479,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_339731.png
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_338065.png 348,43,500,429,0 213,46,261,181,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_334734.png 288,35,354,189,0 502,0,616,207,0 422,24,473,119,0 0,68,77,318,0 25,231,418,437,1
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_314744.png 388,162,461,396,0 538,169,589,267,0 247,165,282,231,0 283,169,311,239,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_309747.png 335,190,405,336,0 543,185,635,480,0 413,311,570,407,1 368,404,533,480,1
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_303084.png 0,0,51,223,0 271,0,315,99,0 413,0,513,336,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_294755.png 27,0,335,479,0 466,0,566,117,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_293089.png 30,0,306,477,0 600,0,640,129,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_284760.png 163,190,265,458,0 398,186,534,480,0 0,193,28,325,0 565,211,605,283,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_279763.png 184,201,239,354,0 349,198,417,439,0 513,217,539,284,0 171,212,193,269,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_272567.png 369,200,436,443,0 254,211,285,312,0 165,215,187,285,0 525,215,553,288,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_272100.png 31,209,100,374,0 317,207,363,295,0 535,210,561,286,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_271800.png 208,46,252,142,0 422,42,447,126,0 516,33,571,156,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_272000.png 29,177,102,342,0 319,187,358,266,0 528,176,559,254,0
+dataset/images/test/eriu_eriu_RC2024-7v7_RC2024__Bembelbots_half1_p7__006_00.log_WHITE/upper_271534.png 523,0,640,168,0 430,0,472,31,0 105,0,155,16,0
+dataset/images/test/sean_sean_RC2024-7v7_RC2024__HULKs_half1_p5__004_00_GREY/upper_926639.png 285,231,475,479,0
+dataset/images/test/sean_sean_RC2024-7v7_RC2024__HULKs_half1_p5__004_00_GREY/upper_923308.png 417,41,485,180,0 220,42,254,159,0 329,50,360,134,0 386,53,408,115,0 35,42,81,141,0
+dataset/images/test/sean_sean_RC2024-7v7_RC2024__HULKs_half1_p5__004_00_GREY/upper_919976.png 494,71,639,436,0 275,85,324,215,0 66,79,115,190,0 221,88,250,169,0 251,91,272,150,0
+dataset/images/test/sean_sean_RC2024-7v7_RC2024__HULKs_half1_p5__004_00_GREY/upper_916645.png 316,90,358,209,0 210,97,240,200,0 268,98,300,179,0 0,105,21,197,0 301,99,317,160,0 436,23,639,475,0
+dataset/images/test/sean_sean_RC2024-7v7_RC2024__HULKs_half1_p5__004_00_GREY/upper_903319.png 339,116,403,251,0 410,17,638,479,0
+dataset/images/test/sean_sean_RC2024-7v7_RC2024__HULKs_half1_p5__004_00_GREY/upper_899988.png 64,75,174,322,0 281,61,397,387,0 430,79,490,236,0
+dataset/images/test/sean_sean_RC2024-7v7_RC2024__HULKs_half1_p5__004_00_GREY/upper_889993.png 12,62,103,252,0 113,58,190,267,0 335,60,372,165,0 476,55,501,122,0
+dataset/images/test/sean_sean_RC2024-7v7_RC2024__HULKs_half1_p5__004_00_GREY/upper_886662.png 133,32,172,164,0 523,96,640,272,1 382,48,438,215,0 347,55,397,198,0
+dataset/images/test/sean_sean_RC2024-7v7_RC2024__HULKs_half1_p5__004_00_GREY/upper_878333.png 1,0,350,480,0 408,56,486,242,0 535,51,607,218,0
+dataset/images/test/sean_sean_RC2024-7v7_RC2024__HULKs_half1_p5__004_00_GREY/upper_860010.png 85,17,198,379,0
+dataset/images/test/sean_sean_RC2024-7v7_RC2024__HULKs_half1_p5__004_00_GREY/upper_856678.png 23,185,120,399,0 372,147,408,250,0 530,118,586,253,0
+dataset/images/test/sean_sean_RC2024-7v7_RC2024__HULKs_half1_p5__004_00_GREY/upper_841687.png 87,240,126,343,0 143,238,183,333,0 308,218,434,480,0 225,231,282,421,0 475,297,566,319,1 461,269,498,299,1
+dataset/images/test/sean_sean_RC2024-7v7_RC2024__HULKs_half1_p5__004_00_GREY/upper_838355.png 144,234,187,343,0 259,222,320,408,0 328,209,450,479,0 479,228,511,305,0
+dataset/images/test/sean_sean_RC2024-7v7_RC2024__HULKs_half1_p5__004_00_GREY/upper_835024.png 145,0,361,480,0 527,11,627,283,0 471,23,520,152,0
+dataset/images/test/sean_sean_RC2024-7v7_RC2024__HULKs_half1_p5__004_00_GREY/upper_830026.png 26,0,175,261,0
+dataset/images/test/sean_sean_RC2024-7v7_RC2024__HULKs_half1_p5__004_00_GREY/upper_810037.png 147,26,228,328,0
+dataset/images/test/sean_sean_RC2024-7v7_RC2024__HULKs_half1_p5__004_00_GREY/upper_798377.png 184,0,640,478,0
+dataset/images/test/sean_sean_RC2024-7v7_RC2024__HULKs_half1_p5__004_00_GREY/upper_796711.png 0,0,191,479,0 387,1,563,480,0
+dataset/images/test/sean_sean_RC2024-7v7_RC2024__HULKs_half1_p5__004_00_GREY/upper_790049.png 141,0,336,480,0 449,25,491,143,0 514,29,551,107,0
+dataset/images/test/sean_sean_RC2024-7v7_RC2024__HULKs_half1_p5__004_00_GREY/upper_785051.png
+dataset/images/test/sean_sean_RC2024-7v7_RC2024__HULKs_half1_p5__004_00_GREY/upper_781720.png 58,172,139,417,0 0,169,46,367,0 328,190,369,291,0 378,191,407,261,0 532,196,568,290,0
+dataset/images/test/sean_sean_RC2024-7v7_RC2024__HULKs_half1_p5__004_00_GREY/upper_775057.png 337,232,404,410,0 149,235,181,313,0 0,240,12,329,0 424,235,457,322,0
+dataset/images/test/sean_sean_RC2024-7v7_RC2024__HULKs_half1_p5__004_00_GREY/upper_732214.png 189,31,242,210,0
+dataset/images/test/sean_sean_RC2024-7v7_RC2024__HULKs_half1_p5__004_00_GREY/upper_727217.png 29,72,127,215,0 405,11,466,193,0 499,15,535,108,0 579,0,639,436,0
+dataset/images/test/sean_sean_RC2024-7v7_RC2024__HULKs_half1_p5__004_00_GREY/upper_717222.png 0,23,71,209,0 115,33,145,131,0 312,25,349,137,0 294,32,310,93,0 603,12,639,231,0
+dataset/images/test/sean_sean_RC2024-7v7_RC2024__HULKs_half1_p5__004_00_GREY/upper_713891.png 321,232,386,392,0
+dataset/images/test/sean_sean_RC2024-7v7_RC2024__HULKs_half1_p5__004_00_GREY/upper_703896.png 172,226,289,453,0 263,125,576,470,0 524,168,580,300,0
+dataset/images/test/sean_sean_RC2024-7v7_RC2024__HULKs_half1_p5__004_00_GREY/upper_700565.png 190,0,540,479,0 95,42,238,436,1
+dataset/images/test/sean_sean_RC2024-7v7_RC2024__HULKs_half1_p5__004_00_GREY/upper_697233.png 5,177,213,479,0
+dataset/images/test/sean_sean_RC2024-7v7_RC2024__HULKs_half1_p5__004_00_GREY/upper_695568.png 27,0,375,480,0 374,0,595,404,0
+dataset/images/test/sean_sean_RC2024-7v7_RC2024__HULKs_half1_p5__004_00_GREY/upper_692236.png 154,0,302,429,0 58,38,118,202,0 562,0,639,268,0
+dataset/images/test/sean_sean_RC2024-7v7_RC2024__HULKs_half1_p5__004_00_GREY/upper_678910.png 340,75,412,263,0 233,65,335,302,0 7,38,108,351,0
+dataset/images/test/sean_sean_RC2024-7v7_RC2024__HULKs_half1_p5__004_00_GREY/upper_675579.png 0,93,30,308,0
+dataset/images/test/sean_sean_RC2024-7v7_RC2024__HULKs_half1_p5__004_00_GREY/upper_670581.png 0,97,55,262,0 486,1,533,117,0
+dataset/images/test/sean_sean_RC2024-7v7_RC2024__HULKs_half1_p5__004_00_GREY/upper_658921.png 214,0,530,479,0
+dataset/images/test/sean_sean_RC2024-7v7_RC2024__HULKs_half1_p5__004_00_GREY/upper_653924.png 288,108,352,293,0 252,111,288,253,0 575,125,640,324,0 344,152,392,225,1
+dataset/images/test/sean_sean_RC2024-7v7_RC2024__HULKs_half1_p5__004_00_GREY/upper_647261.png 233,2,279,81,1 277,0,342,74,1 360,0,391,53,0 490,0,549,125,0
+dataset/images/test/sean_sean_RC2024-7v7_RC2024__HULKs_half1_p5__004_00_GREY/upper_642264.png 541,51,640,418,0 305,72,337,172,0 103,76,131,143,0 432,59,504,251,0 494,53,552,301,0
+dataset/images/test/sean_sean_RC2024-7v7_RC2024__HULKs_half1_p5__004_00_GREY/upper_640598.png 126,122,152,211,0 158,127,185,210,0 260,125,284,188,0 458,116,492,214,0
+dataset/images/test/sean_sean_RC2024-7v7_RC2024__HULKs_half1_p5__004_00_GREY/upper_622275.png 428,34,486,187,0 259,93,358,206,1 36,73,97,177,0 0,89,57,328,0
+dataset/images/test/sean_sean_RC2024-7v7_RC2024__HULKs_half1_p5__004_00_GREY/upper_608949.png 0,60,125,478,0 429,48,504,275,0 515,57,561,199,0
+dataset/images/test/sean_sean_RC2024-7v7_RC2024__HULKs_half1_p5__004_00_GREY/upper_605617.png 75,43,288,477,0 308,95,349,198,0
+dataset/images/test/sean_sean_RC2024-7v7_RC2024__HULKs_half1_p5__004_00_GREY/upper_598954.png 286,46,318,155,0 540,36,577,154,0 593,33,621,128,0
+dataset/images/test/sean_sean_RC2024-7v7_RC2024__HULKs_half1_p5__004_00_GREY/upper_573968.png 42,96,81,174,0 162,85,188,141,0 243,76,276,154,0 620,17,639,224,0
+dataset/images/test/sean_sean_RC2024-7v7_RC2024__HULKs_half1_p5__004_00_GREY/upper_570637.png 370,71,558,462,0 137,109,215,247,0 0,114,92,272,0
+dataset/images/test/sean_sean_RC2024-7v7_RC2024__HULKs_half1_p5__004_00_GREY/upper_568971.png 77,111,187,408,0 169,113,229,250,0
+dataset/images/test/sean_sean_RC2024-7v7_RC2024__HULKs_half1_p5__004_00_GREY/upper_565640.png
+dataset/images/test/sean_sean_RC2024-7v7_RC2024__HULKs_half1_p5__004_00_GREY/upper_560642.png 283,87,438,479,0 241,23,313,225,0
+dataset/images/test/sean_sean_RC2024-7v7_RC2024__HULKs_half1_p5__004_00_GREY/upper_558977.png 524,75,549,158,0
+dataset/images/test/sean_sean_RC2024-7v7_RC2024__HULKs_half1_p5__004_00_GREY/upper_555645.png 195,38,253,250,0 326,48,380,223,0 387,131,519,361,1 475,63,507,141,0 410,53,454,185,0
+dataset/images/test/sean_sean_RC2024-7v7_RC2024__HULKs_half1_p5__004_00_GREY/upper_542319.png 2,2,330,476,0 473,19,521,193,0 524,18,590,207,0 334,12,388,253,0 605,41,639,246,0
+dataset/images/test/sean_sean_RC2024-7v7_RC2024__HULKs_half1_p5__004_00_GREY/upper_537322.png 103,49,166,229,0 414,105,482,301,0 500,70,543,264,0
+dataset/images/test/sean_sean_RC2024-7v7_RC2024__HULKs_half1_p5__004_00_GREY/upper_532325.png 145,108,223,291,0 266,253,494,397,1 399,154,565,309,1
+dataset/images/test/sean_sean_RC2024-7v7_RC2024__HULKs_half1_p5__004_00_GREY/upper_528993.png 117,57,197,301,0 318,50,399,275,0 465,58,497,193,0 557,50,601,199,0
+dataset/images/test/sean_sean_RC2024-7v7_RC2024__HULKs_half1_p5__004_00_GREY/upper_525662.png 108,12,173,197,0 225,18,282,173,0 379,12,440,170,0
+dataset/images/test/sean_sean_RC2024-7v7_RC2024__HULKs_half1_p5__004_00_GREY/upper_522330.png 160,61,239,311,0 254,129,364,276,1 480,63,537,212,0
+dataset/images/test/sean_sean_RC2024-7v7_RC2024__HULKs_half1_p5__004_00_GREY/upper_520665.png 107,259,184,412,0 197,263,255,367,0
+dataset/images/test/sean_sean_RC2024-7v7_RC2024__HULKs_half1_p5__004_00_GREY/upper_517333.png 207,2,264,195,0 361,0,424,164,0 464,0,514,129,0
+dataset/images/test/sean_sean_RC2024-7v7_RC2024__HULKs_half1_p5__004_00_GREY/upper_512336.png 342,33,381,175,0 424,29,472,185,0 548,14,605,187,0
+dataset/images/test/sean_sean_RC2024-7v7_RC2024__HULKs_half1_p5__004_00_GREY/upper_505673.png 216,203,279,360,0 317,228,357,358,1
+dataset/images/test/sean_sean_RC2024-7v7_RC2024__HULKs_half1_p5__004_00_GREY/upper_502341.png 320,126,431,204,1 211,39,267,182,0
+dataset/images/test/sean_sean_RC2024-7v7_RC2024__HULKs_half1_p5__004_00_GREY/upper_479021.png 130,148,179,279,0 344,155,413,347,0 521,164,639,479,0
+dataset/images/test/sean_sean_RC2024-7v7_RC2024__HULKs_half1_p5__004_00_GREY/upper_474024.png 218,10,288,196,0 294,22,333,123,0 501,11,571,220,0 580,16,633,189,0
+dataset/images/test/sean_sean_RC2024-7v7_RC2024__HULKs_half1_p5__004_00_GREY/upper_472358.png 423,132,477,266,0 478,105,608,479,0
+dataset/images/test/sean_sean_RC2024-7v7_RC2024__HULKs_half1_p5__004_00_GREY/upper_450703.png 275,302,331,427,0 379,288,426,402,0 450,281,543,479,0
+dataset/images/test/sean_sean_RC2024-7v7_RC2024__HULKs_half1_p5__004_00_GREY/upper_447372.png 1,53,72,208,0 546,8,610,168,0
+dataset/images/test/sean_sean_RC2024-7v7_RC2024__HULKs_half1_p5__004_00_GREY/upper_440709.png 418,37,455,149,0 593,26,639,127,0
+dataset/images/test/sean_sean_RC2024-7v7_RC2024__HULKs_half1_p5__004_00_GREY/upper_432380.png
+dataset/images/test/sean_sean_RC2024-7v7_RC2024__HULKs_half1_p5__004_00_GREY/upper_429049.png 65,83,137,253,0 136,76,209,268,0 399,67,430,176,0 501,65,530,127,0
+dataset/images/test/sean_sean_RC2024-7v7_RC2024__HULKs_half1_p5__004_00_GREY/upper_424051.png 3,103,76,292,0 190,98,239,223,0 343,82,407,259,0 405,89,454,242,0 499,86,539,180,0
+dataset/images/test/sean_sean_RC2024-7v7_RC2024__HULKs_half1_p5__004_00_GREY/upper_415723.png
+dataset/images/test/sean_sean_RC2024-7v7_RC2024__HULKs_half1_p5__004_00_GREY/upper_414057.png 397,153,485,260,0 308,114,347,211,0 487,114,554,241,1 242,154,298,206,1
+dataset/images/test/sean_sean_RC2024-7v7_RC2024__HULKs_half1_p5__004_00_GREY/upper_409060.png
+dataset/images/test/sean_sean_RC2024-7v7_RC2024__HULKs_half1_p5__004_00_GREY/upper_407394.png
+dataset/images/test/sean_sean_RC2024-7v7_RC2024__HULKs_half1_p5__004_00_GREY/upper_405728.png
+dataset/images/test/sean_sean_RC2024-7v7_RC2024__HULKs_half1_p5__004_00_GREY/upper_404063.png 307,147,477,213,1 0,50,63,244,0 244,56,293,168,0 488,67,541,197,0 626,40,640,190,0
+dataset/images/test/sean_sean_RC2024-7v7_RC2024__HULKs_half1_p5__004_00_GREY/upper_402397.png 0,82,107,367,0 84,96,174,309,0 153,103,200,199,0 387,103,426,208,0 484,100,510,167,0
+dataset/images/test/sean_sean_RC2024-7v7_RC2024__HULKs_half1_p5__004_00_GREY/upper_400731.png
+dataset/images/test/sean_sean_RC2024-7v7_RC2024__HULKs_half1_p5__004_00_GREY/upper_399065.png 82,268,163,480,0 152,273,213,420,0 235,373,369,420,1 369,280,425,421,0 476,281,539,409,0
+dataset/images/test/sean_sean_RC2024-7v7_RC2024__HULKs_half1_p5__004_00_GREY/upper_397400.png 507,139,556,256,0
+dataset/images/test/sean_sean_RC2024-7v7_RC2024__HULKs_half1_p5__004_00_GREY/upper_395734.png 213,302,281,480,0 347,313,397,463,0 432,312,484,480,0 543,319,599,455,0
+dataset/images/test/sean_sean_RC2024-7v7_RC2024__HULKs_half1_p5__004_00_GREY/upper_394068.png 95,214,198,480,0 22,219,74,402,0 333,236,390,417,0 472,235,514,368,0
+dataset/images/test/sean_sean_RC2024-7v7_RC2024__HULKs_half1_p5__004_00_GREY/upper_392402.png 84,101,130,234,0 437,99,490,281,0 495,74,624,444,0
+dataset/images/test/sean_sean_RC2024-7v7_RC2024__HULKs_half1_p5__004_00_GREY/upper_390737.png 144,76,193,190,0 316,60,372,235,0 469,38,543,357,0 542,17,640,480,0
+dataset/images/test/sean_sean_RC2024-7v7_RC2024__HULKs_half1_p5__004_00_GREY/upper_389071.png 181,0,284,310,0 33,16,117,161,0 374,4,446,229,0 557,15,607,162,0
+dataset/images/test/sean_sean_RC2024-7v7_RC2024__HULKs_half1_p5__004_00_GREY/upper_387405.png 0,50,169,480,0 194,89,257,271,0 170,101,195,203,0 368,102,409,197,0 567,101,622,226,0
+dataset/images/test/sean_sean_RC2024-7v7_RC2024__HULKs_half1_p5__004_00_GREY/upper_385739.png 146,32,184,145,0 407,16,453,141,0 507,18,539,103,0
+dataset/images/test/sean_sean_RC2024-7v7_RC2024__HULKs_half1_p5__004_00_GREY/upper_382408.png 288,45,366,195,0 448,33,488,152,0 476,12,600,274,0 2,153,77,480,0
+dataset/images/test/sean_sean_RC2024-7v7_RC2024__HULKs_half1_p5__004_00_GREY/upper_384074.png 98,58,313,480,0 258,47,455,471,0 28,85,103,343,0 575,40,639,203,0
+dataset/images/test/sean_sean_RC2024-7v7_RC2024__HULKs_half1_p5__004_00_GREY/upper_379076.png 265,169,334,410,0 367,183,394,261,0 490,165,620,480,0 396,189,409,247,0
+dataset/images/test/sean_sean_RC2024-7v7_RC2024__HULKs_half1_p5__004_00_GREY/upper_377411.png 141,248,207,480,0 279,253,307,335,0 310,253,328,317,0 493,225,609,478,0 419,245,496,426,0 404,249,436,339,0
+dataset/images/test/sean_sean_RC2024-7v7_RC2024__HULKs_half1_p5__004_00_GREY/upper_375745.png 315,245,407,479,0 241,250,320,460,0 155,252,214,433,0 37,257,76,353,0 73,256,94,321,0
+dataset/images/test/sean_sean_RC2024-7v7_RC2024__HULKs_half1_p5__004_00_GREY/upper_372413.png 144,321,301,477,1 407,246,484,456,0 326,254,363,340,0 372,253,398,317,0 590,241,640,438,0 478,244,587,473,0
+dataset/images/test/sean_sean_RC2024-7v7_RC2024__HULKs_half1_p5__004_00_GREY/upper_370748.png 525,242,627,480,0 271,248,326,409,0 89,243,201,480,0 0,248,54,462,0
+dataset/images/test/sean_sean_RC2024-7v7_RC2024__HULKs_half1_p5__004_00_GREY/upper_367416.png 32,234,163,480,0 275,244,305,321,0 607,225,640,364,0 183,246,212,308,0 0,238,23,472,0
+dataset/images/test/sean_sean_RC2024-7v7_RC2024__HULKs_half1_p5__004_00_GREY/upper_364085.png 226,241,280,399,0 410,237,455,329,0 446,228,533,436,0 546,226,640,480,0
+dataset/images/test/sean_sean_RC2024-7v7_RC2024__HULKs_half1_p5__004_00_GREY/upper_369082.png 66,335,223,444,1 330,254,393,470,0 397,240,507,476,0 397,252,423,316,0
+dataset/images/test/sean_sean_RC2024-7v7_RC2024__HULKs_half1_p5__004_00_GREY/upper_359087.png 149,233,210,440,0 285,244,319,330,0 318,214,438,480,0
+dataset/images/test/sean_sean_RC2024-7v7_RC2024__HULKs_half1_p5__004_00_GREY/upper_360753.png 39,236,108,441,0 154,238,190,322,0 310,234,375,422,0 449,212,562,480,0
